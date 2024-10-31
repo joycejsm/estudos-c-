@@ -26,3 +26,4 @@ C:\Users\Joyce\OneDrive\Área de Trabalho\PRGRAMACAO\dio-c#\ex-01\obj\Debug\net8
 C:\Users\Joyce\OneDrive\Área de Trabalho\PRGRAMACAO\dio-c#\ex-01\obj\Debug\net8.0\dio-c#.pdb
 C:\Users\Joyce\OneDrive\Área de Trabalho\PRGRAMACAO\dio-c#\ex-01\obj\Debug\net8.0\dio-c#.genruntimeconfig.cache
 C:\Users\Joyce\OneDrive\Área de Trabalho\PRGRAMACAO\dio-c#\ex-01\obj\Debug\net8.0\ref\dio-c#.dll
+C:\Users\Joyce\OneDrive\Área de Trabalho\PRGRAMACAO\dio-c#\ex-01\obj\Debug\net8.0\dio-c#.sourcelink.json

@@ -22,5 +22,10 @@ namespace dio_c_.Models
         public void Dividir(int x, int y){
             Console.WriteLine($"{x} / {y} = {x / y}");
         }
+        public void Potencia(int x, int y){
+
+            double pot = Math.Pow(x, y);
+            Console.WriteLine($"{x} ^ {y} = {pot}");
+        }
     }
 }
