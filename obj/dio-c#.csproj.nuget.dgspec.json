@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj": {}
+    "C:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj": {
+    "C:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj",
+        "projectUniqueName": "C:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj",
         "projectName": "dio-c#",
-        "projectPath": "c:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj",
+        "projectPath": "C:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\dio-c#.csproj",
         "packagesPath": "C:\\Users\\Joyce\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\obj\\",
+        "outputPath": "C:\\Users\\Joyce\\OneDrive\\Área de Trabalho\\PRGRAMACAO\\dio-c#\\ex-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joyce\\AppData\\Roaming\\NuGet\\NuGet.Config"
